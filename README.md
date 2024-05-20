@@ -9,4 +9,6 @@
 
 💸 Atividade 4 - [Banco Digital](BancoDigital)
 
+👨🏻‍💻 Atividade 5 - [Estrutura de um Bootcamp](EstruturaBootcamp)
+
 
