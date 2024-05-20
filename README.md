@@ -7,4 +7,6 @@
 
 📱 Atividade 3 - [Lançamento do iPhone em 2007](LancamentoIphone)
 
+💸 Atividade 4 - [Banco Digital](BancoDigital)
+
 
