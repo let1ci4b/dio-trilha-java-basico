@@ -11,4 +11,6 @@
 
 👨🏻‍💻 Atividade 5 - [Estrutura de um Bootcamp](EstruturaBootcamp)
 
+🏠 Atividade 6 - Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework | [Cadastro de endereço com busca por CEP](https://github.com/let1ci4b/lab-padroes-projeto-spring/tree/main)
+
 
