@@ -13,4 +13,4 @@
 
 🏠 Atividade 6 - Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework | [Cadastro de endereço com busca por CEP](https://github.com/let1ci4b/lab-DIO-padroes-projeto-spring)
 
-🏦 Atividade 6 - API Rest na nuvem utilizando Spring Boot 3, Java 17 e Railway | [Dados de APP inicial do banco | Cadastro de conta bancária](https://github.com/let1ci4b/santander-DIO-dev-week-2023-api)
+🏦 Atividade 6 - API Rest na nuvem utilizando Spring Boot 3, Java 17 e Railway | [Dados da página inicial do APP do banco | Cadastro de conta bancária](https://github.com/let1ci4b/santander-DIO-dev-week-2023-api)
